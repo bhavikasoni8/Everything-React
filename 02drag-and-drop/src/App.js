@@ -1,10 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
 
+
 function App() {
+
   return (
     <div className="App">
-      <p>Bhavika</p>
+      <h1>React Beautiful DND</h1>
+      <br />
     </div>
   );
 }
